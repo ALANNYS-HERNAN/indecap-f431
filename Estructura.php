@@ -7,12 +7,12 @@
     <title>Instrucciones para una receta</title>
 </head>
 <body>
-    <?php require_once"";?>
+    <?php require_once"header.php";?>
 
     <main>
         <br>
     </main>
     
-    <?php require_once"";?>
+    <?php require_once"footer.php";?>
 </body>
 </html>
