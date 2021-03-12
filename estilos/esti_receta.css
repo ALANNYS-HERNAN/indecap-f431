@@ -1,0 +1,44 @@
+body {
+    background-color: aquamarine;
+}
+
+.cuadro {
+    background-color: rgb(238, 113, 113);
+    width: 50%;
+    padding: 5px;
+}
+
+.enlinea {
+    display: inline-block;
+}
+
+img {
+    width: 20%;
+}
+
+header {
+    text-align: center;
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+}
+
+.titulo {
+    margin: 0;
+    position: absolute;
+    top: 5px;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 10px 0 20px 0;
+    padding: 0;
+}
+
+li {
+    padding: 0;
+    margin: 0;
+}

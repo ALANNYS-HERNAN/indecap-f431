@@ -1,0 +1,14 @@
+ul {
+    background-color: rgb(127, 248, 127);
+    list-style: none;
+    width: 50%;
+    height: auto;
+}
+
+li {
+    padding: 2px;
+    border-bottom: 1px solid blue;
+    text-align: center;
+}
+
+.li {}

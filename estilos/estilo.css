@@ -1,0 +1,14 @@
+h2 {
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.contenido {
+    background-color: aqua;
+    width: 15%;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 5;
+}
