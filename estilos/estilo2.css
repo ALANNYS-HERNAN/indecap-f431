@@ -1,0 +1,47 @@
+.menu_v {
+    padding: 0;
+    margin: 0;
+    width: 30%;
+    text-align: center;
+    border: 1PX solid black;
+    background-color: rgb(126, 226, 226);
+}
+
+.menu_v li {
+    list-style: none;
+    padding: 5% 0;
+    border-bottom: 1px solid black;
+}
+
+.menu_v a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu_v a:hover {
+    text-decoration: underline;
+}
+
+.menu_h {
+    padding: 0;
+    margin: 0;
+    width: 30%;
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(126, 226, 226);
+}
+
+.menu_h li {
+    list-style: none;
+    padding: 5%;
+    display: inline-block;
+}
+
+.menu_h a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu_h a:hover {
+    text-decoration: underline;
+}
