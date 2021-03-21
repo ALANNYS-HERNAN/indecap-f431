@@ -1,0 +1,91 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-color: bisque; */
+}
+
+section {
+    display: flex;
+    text-align: center;
+}
+
+.cuadro1 {
+    padding: 17vh;
+    padding-top: 16%;
+    background-color: #8a3641;
+    flex: 26%;
+    border: 0px black dashed;
+    min-height: 64vh;
+}
+
+.cuadro2 {
+    background-color: #eee0dd;
+    padding: 3vh;
+    padding-top: 15%;
+    flex: 70%;
+}
+
+nav {
+    min-height: 16%;
+    width: 48vw;
+    margin-top: 6vh;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    text-align: center;
+    background-color: #FBE7C6;
+    border: 1px black solid;
+    position: absolute;
+}
+
+.titulos {
+    width: 33vw;
+    display: inline-block;
+}
+
+.titulo {
+    border-bottom: 1px black solid;
+    padding: 1vh;
+    padding-bottom: 1vh;
+    margin-left: 21%;
+    margin-right: 19%;
+}
+
+.subTitulo {
+    font-size: medium;
+    font-weight: normal;
+}
+
+.parra {
+    text-align: justify;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    text-align: center;
+    margin-bottom: 1vh;
+    margin-left: 0;
+}
+
+ol {
+    list-style: none;
+}
+
+.datos1 {
+    border: 1px solid black;
+    width: 57vw;
+    background-color: whitesmoke;
+    color: gray;
+}
+
+.datos {
+    border: 1px solid black;
+    width: 21vw;
+    background-color: whitesmoke;
+    color: gray;
+}
+
+.dato {
+    text-align: center;
+}

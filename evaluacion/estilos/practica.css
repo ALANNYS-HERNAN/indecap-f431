@@ -1,0 +1,86 @@
+body {
+    background-image: url(/indecap/indecap/indecap-f431/evaluacion/imag/pan.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    margin: 0;
+}
+
+ul {
+    background-color: rgb(232, 203, 160);
+    color: brown;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    margin-top: 20px;
+    list-style: none;
+    text-align: right;
+    margin-right: 1vw;
+    padding-left: 42%;
+    border-radius: 30px;
+    font-size: 15px;
+    padding-top: 5vh;
+    display: flex;
+    margin-left: 1vw;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
+.menu {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+h2 {
+    margin: 20px;
+    padding: 20px;
+}
+
+.imag {
+    width: 20%;
+}
+
+.parrafo {
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+    margin-top: 2px;
+}
+
+footer {
+    min-height: 20vh;
+    margin-top: 2vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: rgb(232, 203, 160);
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+.redes {
+    display: flex;
+    flex-direction: row;
+    margin-left: 22vw;
+}
+
+.redesI {
+    width: 7vh;
+    height: auto;
+    margin-left: 10vw;
+}
+
+.centrar {
+    text-align: center;
+    font-size: 30px;
+}
+
+.list {
+    color: black;
+    font-size: small;
+}

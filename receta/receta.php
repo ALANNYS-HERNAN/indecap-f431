@@ -9,7 +9,7 @@
 <body>
 
     <?php require_once"header.php";?>
-
+ 
     <main>
         <h1>INGREDIENTES</h1>
         <div class="cuadro">
