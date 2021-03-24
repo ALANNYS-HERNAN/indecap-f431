@@ -31,9 +31,9 @@
                 <h1 class="datos">FORMACION ACADEMÍCA</h1>
 
                 <ul class="dato">
-                    <td>Bachillerato</td>
-                    <dd>INSANJO</dd>
-                    <td>Indecap-Sena</td>
+                    <td><b>BACHILLERATO</b></td>
+                    <dd>Insanjo</dd>
+                    <td><b>INDECAP-SENA</b></td>
                     <dd>Programacion de Software</dd>
                 </ul>
 
