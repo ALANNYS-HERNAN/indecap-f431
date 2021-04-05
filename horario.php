@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/indecap/indecap/indecap-f431/estilos/horario.css">
     <title>HORARIO</title>
 </head>
 <body>
-<table border="3">
+<table border="3" class="tabla1">
             <thead>
                 <tr>
                     <td>MIXTA</td>
@@ -47,7 +48,7 @@
         
         <br />
         
-        <table border="3">
+        <table border="3" class="tabla2">
             <thead >
                 <tr>
                     <td>MIXTA</td>
